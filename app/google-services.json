@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "862584046093",
+    "firebase_url": "https://magicprint-fdbd3.firebaseio.com",
+    "project_id": "magicprint-fdbd3",
+    "storage_bucket": "magicprint-fdbd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862584046093:android:51f96e1e43dcba73120b44",
+        "android_client_info": {
+          "package_name": "com.beingdev.magicprint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862584046093-og22a0hkqdkl0dspvb4v5n4uf9i11fj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPhlrpJQ5C-JOPbDjm-EljJzNlcLY3eYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862584046093-og22a0hkqdkl0dspvb4v5n4uf9i11fj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
